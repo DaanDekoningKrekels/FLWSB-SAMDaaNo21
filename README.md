@@ -25,7 +25,7 @@ Ref: https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-42261-SAM-D21-USB_Ap
 
 Ref schematic checklist: https://ww1.microchip.com/downloads/en/DeviceDoc/SAM-D21DA1-Family-Data-Sheet-DS40001882G.pdf#_OPENTOPIC_TOC_PROCESSING_d10240e380866
 
-![Figure 45-15. Protected USB Interface Example Schematic](/home/daan/Documents/SCHOOL/Applied IoT Projects/FLWSB/assets/Screenshot 2022-09-23 at 14-53-28 SAM D21 Family Data Sheet - SAM-D21DA1-Family-Data-Sheet-DS40001882G.pdf-16639376699902.png)
+![Figure 45-15. Protected USB Interface Example Schematic](./assets/USB-exmaple-schematic.png)
 
 ## Power delivery
 
